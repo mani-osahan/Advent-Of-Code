@@ -19,7 +19,10 @@ def recoverInt(arr: list[str]):
         "seven" : 7,
         "eight" : 8,
         "nine" : 9
-    }
+    } 
+
+     
+     
 
     for i in arr:
         row = []
