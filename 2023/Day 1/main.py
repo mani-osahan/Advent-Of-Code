@@ -20,9 +20,9 @@ def recoverInt(arr: list[str]):
         "eight" : 8,
         "nine" : 9
     } 
-
-
-    
+  
+  
+     
     for i in arr:
         row = []
         if i in digits:
