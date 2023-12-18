@@ -21,8 +21,7 @@ def recoverInt(arr: list[str]):
         "nine" : 9
     } 
 
-     
-     
+
 
     for i in arr:
         row = []
