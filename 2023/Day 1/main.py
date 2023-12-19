@@ -22,7 +22,7 @@ def recoverInt(arr: list[str]):
     } 
  
    
-
+ 
     for i in arr:
         row = []
         if i in digits:
